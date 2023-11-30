@@ -162,4 +162,22 @@ export default {
       type: 'disciple_kills',
     },
   },
+
+  'Unknown Visitor': {
+    weapon: 'TAQ Eradicator',
+    level: '9',
+    challenge: {
+      amount: 10,
+      type: 'mangler_kills',
+    },
+  },
+
+  'Light Vision': {
+    weapon: 'TAQ Eradicator',
+    level: '9',
+    challenge: {
+      amount: 10,
+      type: 'penetration_kills',
+    },
+  },
 }

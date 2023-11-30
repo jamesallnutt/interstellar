@@ -107,6 +107,15 @@ export default {
     },
   },
 
+  'Pestilence': {
+    weapon: 'TAQ Eradicator',
+    level: '2',
+    challenge: {
+      amount: 250,
+      type: 'kills',
+    },
+  },
+
   'Hemoglobin': {
     weapon: 'Renetti',
     level: '9',
@@ -160,6 +169,15 @@ export default {
       amount: 20,
       times: 10,
       type: 'consecutive_kills_without_taking_damage',
+    },
+  },
+
+  'Spreading': {
+    weapon: 'TAQ Eradicator',
+    level: '2',
+    challenge: {
+      amount: 50,
+      type: 'kills',
     },
   },
 }

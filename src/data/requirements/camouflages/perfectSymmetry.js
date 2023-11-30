@@ -200,4 +200,22 @@ export default {
       type: 'kills_with_full_attachments',
     },
   },
+
+  'Mysterious': {
+    weapon: 'TAQ Eradicator',
+    level: '22',
+    challenge: {
+      amount: 250,
+      type: 'kills_at_rare_or_higher_rarity',
+    },
+  },
+
+  'Pyramidical': {
+    weapon: 'TAQ Eradicator',
+    level: '22',
+    challenge: {
+      amount: 10,
+      type: 'double_kills',
+    },
+  },
 }

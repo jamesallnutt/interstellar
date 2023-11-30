@@ -145,4 +145,23 @@ export default {
       type: 'kills_with_fire_damage',
     },
   },
+
+  'Palette Sands': {
+    weapon: 'TAQ Eradicator',
+    level: '15',
+    challenge: {
+      amount: 10,
+      type: 'kills_with_full_attachments',
+    },
+  },
+
+  'Palette Scorched': {
+    weapon: 'TAQ Eradicator',
+    level: '15',
+    challenge: {
+      amount: 10,
+      times: 10,
+      type: 'kills_without_reloading',
+    },
+  },
 }
